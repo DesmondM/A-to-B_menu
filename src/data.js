@@ -95,7 +95,7 @@ const menu = [
     category: 'lunch',
     //price: 16.99,
     img: './images/item-9.jpeg',
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    desc: `Great local recipe that is filling, served with an assortment of veggies`,
   },
 ];
 export default menu;
