@@ -5,7 +5,7 @@ const menu = [
     category: 'healthy',
     //price: 
     img: './images/item-1.jpeg',
-    desc: `Great for vegerarians, filiing and ever so fresh `,
+    desc: `Great for vegetarians, filling and ever so fresh `,
   },
   {
     id: 2,
@@ -41,7 +41,7 @@ const menu = [
   },
   {
     id: 6,
-    title: 'Dumpling with Mogudu & Spinch',
+    title: 'Dumpling with Mogudu & Spinach',
     category: 'lunch',
     price: 'R'+65,
     img: './images/item-6.jpeg',
@@ -67,7 +67,7 @@ const menu = [
     id: 9,
     title: 'Vetkoer/AmaGwinya',
     category: 'baked',
-    price: 'R'+10,
+    //price: 'R'+10,
     img: './images/item-13.jpg',
     desc: `Freshly made with minimal oil, tasty and ready to carry you for the day`,
   },
@@ -76,7 +76,7 @@ const menu = [
     id: 10,
     title: 'Desserts',
     category: 'baked',
-    price: 'R'+10,
+    //price: 'R'+10,
     img: './images/item-11.jpg',
     desc: `Mouthwatering desserts ranging from different cakes, cake slices , mousses etc`,
   },
